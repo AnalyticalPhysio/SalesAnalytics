@@ -1,6 +1,6 @@
 Sales and Financial Analytics using Advance Excel
 
-In this project, I enabled AtliQ Hardware to oversee and assess its sales operations and performance. Along with that I also assessed the financial performance, aiding decision-making, and enhancing stakeholder communication. The significance of analyzing sales and financial data were to identify sales trends and monitor key performance indicators (KPIs), enabling benchmarking against industry peers and past periods, and serving as the foundation for budgeting and forecasting.
+This is a Sales and Financial Analytics in which I enabled AtliQ Hardware to oversee and assess its sales operations and performance. Along with that I also assessed the financial performance, aiding decision-making, and enhancing stakeholder communication. The significance of analyzing sales and financial data were to identify sales trends and monitor key performance indicators (KPIs), enabling benchmarking against industry peers and past periods, and serving as the foundation for budgeting and forecasting.
 
 Technical Skills achieved:
 Mastery of ETL methodology (Extract, Transform, Load).
